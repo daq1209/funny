@@ -144,7 +144,7 @@ function App() {
           isConfirmed ? (
             <>
               <img
-                src="/gif/tumblr_fbf092e04ccb71c0f948c2dd7979887b_9047c061_1280.webp"
+                src="/gif/emoji-meme-002.webp"
                 alt="Final Confirmation GIF"
                 className="center-gif success-gif final-gif"
               />
