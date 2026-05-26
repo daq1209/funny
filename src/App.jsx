@@ -243,6 +243,7 @@ function App() {
               <button
                 className="action-button no"
                 onMouseEnter={handleNoMouseEnter}
+                onTouchStart={handleNoMouseEnter}
                 style={noStyle}
               >
                 no
